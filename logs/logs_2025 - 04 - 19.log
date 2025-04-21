@@ -1,0 +1,81 @@
+2025-04-19 00:19:48,359 - INFO - Successfully read yaml file
+2025-04-19 00:19:48,638 - INFO - Data ingestion started with first_bucket2209 and file is data.csv
+2025-04-19 00:19:48,638 - INFO - Starting data ingestion
+2025-04-19 00:19:51,945 - WARNING - Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
+2025-04-19 00:19:55,884 - WARNING - Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
+2025-04-19 00:20:01,045 - WARNING - Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
+2025-04-19 00:20:01,045 - WARNING - Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2025-04-19 00:20:01,047 - ERROR - Error while downloading CSV file
+2025-04-19 00:20:01,048 - ERROR - CustomException: CustomException.__init__() missing 1 required positional argument: 'error_detail'
+2025-04-19 00:20:01,048 - INFO - Data ingestion completed
+2025-04-19 00:21:46,711 - INFO - Successfully read yaml file
+2025-04-19 00:21:46,716 - INFO - Data ingestion started with first_bucket2209 and file is data.csv
+2025-04-19 00:21:46,716 - INFO - Starting data ingestion
+2025-04-19 00:21:49,732 - WARNING - Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
+2025-04-19 00:21:53,773 - WARNING - Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
+2025-04-19 00:21:58,750 - WARNING - Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
+2025-04-19 00:21:58,750 - WARNING - Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2025-04-19 00:21:58,750 - ERROR - Error while downloading CSV file
+2025-04-19 00:21:58,750 - ERROR - CustomException: CustomException.__init__() missing 1 required positional argument: 'error_detail'
+2025-04-19 00:21:58,750 - INFO - Data ingestion completed
+2025-04-19 16:48:16,128 - INFO - Successfully read yaml file
+2025-04-19 16:48:16,129 - INFO - Data ingestion started with first_bucket2209 and file is data.csv
+2025-04-19 16:48:16,129 - INFO - Starting data ingestion
+2025-04-19 16:48:19,226 - WARNING - Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
+2025-04-19 16:48:23,268 - WARNING - Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
+2025-04-19 16:48:28,433 - WARNING - Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
+2025-04-19 16:48:28,434 - WARNING - Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2025-04-19 16:48:28,434 - ERROR - Error while downloading CSV file
+2025-04-19 16:48:28,435 - ERROR - CustomException: CustomException.__init__() missing 1 required positional argument: 'error_detail'
+2025-04-19 16:48:28,435 - INFO - Data ingestion completed
+2025-04-19 16:49:22,303 - INFO - Successfully read yaml file
+2025-04-19 16:49:22,303 - INFO - Data ingestion started with first_bucket2209 and file is data.csv
+2025-04-19 16:49:22,303 - INFO - Starting data ingestion
+2025-04-19 16:49:25,351 - WARNING - Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
+2025-04-19 16:49:29,319 - WARNING - Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
+2025-04-19 16:49:34,236 - WARNING - Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
+2025-04-19 16:49:34,236 - WARNING - Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2025-04-19 16:49:34,237 - ERROR - Error while downloading CSV file
+2025-04-19 16:49:34,237 - ERROR - CustomException: Error occured in E:\Hotel_Reservation_Project\src\data_ingestion.py, line number: 24: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-04-19 16:49:34,237 - INFO - Data ingestion completed
+2025-04-19 16:50:24,164 - INFO - Successfully read yaml file
+2025-04-19 16:50:24,165 - INFO - Data ingestion started with first_bucket2209 and file is data.csv
+2025-04-19 16:50:24,189 - INFO - Starting data ingestion
+2025-04-19 16:50:27,212 - WARNING - Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
+2025-04-19 16:50:31,271 - WARNING - Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
+2025-04-19 16:50:36,287 - WARNING - Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
+2025-04-19 16:50:36,288 - WARNING - Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2025-04-19 16:50:36,288 - ERROR - Error while downloading CSV file
+2025-04-19 16:50:36,288 - ERROR - CustomException: Error occured in E:\Hotel_Reservation_Project\src\data_ingestion.py, line number: 24: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-04-19 16:50:36,289 - INFO - Data ingestion completed
+2025-04-19 16:51:08,929 - INFO - Successfully read yaml file
+2025-04-19 16:51:08,929 - INFO - Data ingestion started with first_bucket2209 and file is data.csv
+2025-04-19 16:51:08,930 - INFO - Starting data ingestion
+2025-04-19 16:51:11,937 - WARNING - Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
+2025-04-19 16:51:15,964 - WARNING - Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
+2025-04-19 16:51:21,028 - WARNING - Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
+2025-04-19 16:51:21,028 - WARNING - Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2025-04-19 16:51:21,028 - ERROR - Error while downloading CSV file
+2025-04-19 16:51:21,029 - ERROR - CustomException: Error occured in E:\Hotel_Reservation_Project\src\data_ingestion.py, line number: 24: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-04-19 16:51:21,029 - INFO - Data ingestion completed
+2025-04-19 16:55:33,260 - INFO - Successfully read yaml file
+2025-04-19 16:55:33,261 - INFO - Data ingestion started with first_bucket2209 and file is data.csv
+2025-04-19 16:55:33,261 - INFO - Starting data ingestion
+2025-04-19 16:55:35,876 - ERROR - Error while downloading CSV file
+2025-04-19 16:55:35,878 - ERROR - CustomException: Error occured in E:\Hotel_Reservation_Project\src\data_ingestion.py, line number: 28: 404 GET https://storage.googleapis.com/download/storage/v1/b/first_bucket2209/o/data.csv?alt=media: No such object: first_bucket2209/data.csv: ('Request failed with status code', 404, 'Expected one of', <HTTPStatus.OK: 200>, <HTTPStatus.PARTIAL_CONTENT: 206>)
+2025-04-19 16:55:35,878 - INFO - Data ingestion completed
+2025-04-19 16:59:37,204 - INFO - Successfully read yaml file
+2025-04-19 16:59:37,204 - INFO - Data ingestion started with first_bucket2209 and file is data.csv
+2025-04-19 16:59:37,204 - INFO - Starting data ingestion
+2025-04-19 16:59:38,044 - ERROR - Error while downloading CSV file
+2025-04-19 16:59:38,044 - ERROR - CustomException: Error occured in E:\Hotel_Reservation_Project\src\data_ingestion.py, line number: 28: 404 GET https://storage.googleapis.com/download/storage/v1/b/first_bucket2209/o/data.csv?alt=media: No such object: first_bucket2209/data.csv: ('Request failed with status code', 404, 'Expected one of', <HTTPStatus.OK: 200>, <HTTPStatus.PARTIAL_CONTENT: 206>)
+2025-04-19 16:59:38,044 - INFO - Data ingestion completed
+2025-04-19 17:00:47,080 - INFO - Successfully read yaml file
+2025-04-19 17:00:47,080 - INFO - Data ingestion started with first_bucket2209 and file is Data.csv
+2025-04-19 17:00:47,080 - INFO - Starting data ingestion
+2025-04-19 17:00:49,272 - INFO - CSV file downloaded to artifacts/raw\raw.csv
+2025-04-19 17:00:49,279 - INFO - Starting the splitting process
+2025-04-19 17:00:50,337 - INFO - Train data saved to artifacts/raw\train.csv
+2025-04-19 17:00:50,337 - INFO - Test data saved to artifacts/raw\test.csv
+2025-04-19 17:00:50,361 - INFO - Data ingestion completed
+2025-04-19 17:00:50,361 - INFO - Data ingestion completed
