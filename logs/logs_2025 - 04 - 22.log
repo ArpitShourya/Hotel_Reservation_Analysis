@@ -1,0 +1,73 @@
+2025-04-22 14:03:56,343 - INFO - Successfully read yaml file
+2025-04-22 14:03:56,343 - INFO - Loading data from RAW folder
+2025-04-22 14:03:56,343 - INFO - Loading Data
+2025-04-22 14:03:56,757 - INFO - Loading Data
+2025-04-22 14:03:56,826 - INFO - Starting Data Processing
+2025-04-22 14:03:56,826 - INFO - Dropping the columns
+2025-04-22 14:03:57,043 - ERROR - Error in preprocessing {e}
+2025-04-22 14:03:57,043 - ERROR - Error during preprocessing CustomException.__init__() missing 1 required positional argument: 'error_detail'
+2025-04-22 14:07:54,956 - INFO - Successfully read yaml file
+2025-04-22 14:07:54,956 - INFO - Loading data from RAW folder
+2025-04-22 14:07:54,956 - INFO - Loading Data
+2025-04-22 14:07:55,113 - INFO - Loading Data
+2025-04-22 14:07:55,146 - INFO - Starting Data Processing
+2025-04-22 14:07:55,146 - INFO - Dropping the columns
+2025-04-22 14:07:55,180 - ERROR - Error in preprocessing {e}
+2025-04-22 14:07:55,180 - ERROR - Error during preprocessing CustomException.__init__() missing 1 required positional argument: 'error_detail'
+2025-04-22 14:09:02,176 - INFO - Successfully read yaml file
+2025-04-22 14:09:02,176 - INFO - Loading data from RAW folder
+2025-04-22 14:09:02,176 - INFO - Loading Data
+2025-04-22 14:09:02,280 - INFO - Loading Data
+2025-04-22 14:09:02,312 - INFO - Starting Data Processing
+2025-04-22 14:09:02,312 - INFO - Dropping the columns
+2025-04-22 14:09:02,344 - ERROR - Error in preprocessing 'data_preprocessing'
+2025-04-22 14:09:02,344 - ERROR - Error during preprocessing CustomException.__init__() missing 1 required positional argument: 'error_detail'
+2025-04-22 14:12:08,889 - INFO - Successfully read yaml file
+2025-04-22 14:12:08,889 - INFO - Loading data from RAW folder
+2025-04-22 14:12:08,889 - INFO - Loading Data
+2025-04-22 14:12:09,009 - INFO - Loading Data
+2025-04-22 14:12:09,049 - INFO - Starting Data Processing
+2025-04-22 14:12:09,049 - INFO - Dropping the columns
+2025-04-22 14:12:09,089 - INFO - Applying label encoding
+2025-04-22 14:12:09,129 - ERROR - Error in preprocessing '-'
+2025-04-22 14:12:09,129 - ERROR - Error during preprocessing CustomException.__init__() missing 1 required positional argument: 'error_detail'
+2025-04-22 14:20:34,041 - INFO - Successfully read yaml file
+2025-04-22 14:20:34,041 - INFO - Loading data from RAW folder
+2025-04-22 14:20:34,041 - INFO - Loading Data
+2025-04-22 14:20:34,147 - INFO - Loading Data
+2025-04-22 14:20:34,171 - INFO - Starting Data Processing
+2025-04-22 14:20:34,179 - INFO - Dropping the columns
+2025-04-22 14:20:34,211 - INFO - Applying label encoding
+2025-04-22 14:20:34,319 - INFO - Labelmappings are: 
+2025-04-22 14:20:34,319 - INFO - type_of_meal_plan:{'Meal Plan 1': np.int64(0), 'Meal Plan 2': np.int64(1), 'Meal Plan 3': np.int64(2), 'Not Selected': np.int64(3)}
+2025-04-22 14:20:34,319 - INFO - room_type_reserved:{'Room_Type 1': np.int64(0), 'Room_Type 2': np.int64(1), 'Room_Type 3': np.int64(2), 'Room_Type 4': np.int64(3), 'Room_Type 5': np.int64(4), 'Room_Type 6': np.int64(5), 'Room_Type 7': np.int64(6)}
+2025-04-22 14:20:34,319 - INFO - market_segment_type:{'Aviation': np.int64(0), 'Complementary': np.int64(1), 'Corporate': np.int64(2), 'Offline': np.int64(3), 'Online': np.int64(4)}
+2025-04-22 14:20:34,319 - INFO - booking_status:{'Canceled': np.int64(0), 'Not_Canceled': np.int64(1)}
+2025-04-22 14:20:34,319 - INFO - required_car_parking_space:{np.int64(0): np.int64(0), np.int64(1): np.int64(1)}
+2025-04-22 14:20:34,319 - INFO - repeated_guest:{np.int64(0): np.int64(0), np.int64(1): np.int64(1)}
+2025-04-22 14:20:34,319 - INFO - Doing Skewness Handling
+2025-04-22 14:20:34,337 - INFO - Starting Data Processing
+2025-04-22 14:20:34,337 - INFO - Dropping the columns
+2025-04-22 14:20:34,353 - INFO - Applying label encoding
+2025-04-22 14:20:34,361 - INFO - Labelmappings are: 
+2025-04-22 14:20:34,361 - INFO - type_of_meal_plan:{'Meal Plan 1': np.int64(0), 'Meal Plan 2': np.int64(1), 'Meal Plan 3': np.int64(2), 'Not Selected': np.int64(3)}
+2025-04-22 14:20:34,361 - INFO - room_type_reserved:{'Room_Type 1': np.int64(0), 'Room_Type 2': np.int64(1), 'Room_Type 3': np.int64(2), 'Room_Type 4': np.int64(3), 'Room_Type 5': np.int64(4), 'Room_Type 6': np.int64(5), 'Room_Type 7': np.int64(6)}
+2025-04-22 14:20:34,361 - INFO - market_segment_type:{'Aviation': np.int64(0), 'Complementary': np.int64(1), 'Corporate': np.int64(2), 'Offline': np.int64(3), 'Online': np.int64(4)}
+2025-04-22 14:20:34,361 - INFO - booking_status:{'Canceled': np.int64(0), 'Not_Canceled': np.int64(1)}
+2025-04-22 14:20:34,361 - INFO - required_car_parking_space:{np.int64(0): np.int64(0), np.int64(1): np.int64(1)}
+2025-04-22 14:20:34,361 - INFO - repeated_guest:{np.int64(0): np.int64(0), np.int64(1): np.int64(1)}
+2025-04-22 14:20:34,361 - INFO - Doing Skewness Handling
+2025-04-22 14:20:34,369 - INFO - Handling imbalanced data
+2025-04-22 14:20:36,420 - INFO - Data balancing completed
+2025-04-22 14:20:36,420 - INFO - Handling imbalanced data
+2025-04-22 14:20:36,464 - INFO - Data balancing completed
+2025-04-22 14:20:36,464 - INFO - Starting our Feature selection process
+2025-04-22 14:20:41,960 - INFO - Feature selection completed
+2025-04-22 14:20:41,960 - INFO - Features Selected: ['lead_time' 'no_of_special_requests' 'avg_price_per_room' 'arrival_month'
+ 'arrival_date' 'market_segment_type' 'no_of_week_nights'
+ 'no_of_weekend_nights' 'type_of_meal_plan' 'room_type_reserved']
+2025-04-22 14:20:41,976 - INFO - saving our data in processed folder
+2025-04-22 14:20:42,190 - INFO - Data saved successfully to artifacts/processed\processed_train.csv
+2025-04-22 14:20:42,190 - INFO - saving our data in processed folder
+2025-04-22 14:20:42,230 - INFO - Data saved successfully to artifacts/processed\processed_test.csv
+2025-04-22 14:20:42,238 - INFO - Datapreprocessing completed
