@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Hotel_Reservation_Project/mlruns/0/7e19ae22a8b140e383dcf626a5f5d8d4/artifacts
+end_time: 1745321191144
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e19ae22a8b140e383dcf626a5f5d8d4
+run_name: dashing-loon-99
+run_uuid: 7e19ae22a8b140e383dcf626a5f5d8d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745321149776
+status: 3
+tags: []
+user_id: PC

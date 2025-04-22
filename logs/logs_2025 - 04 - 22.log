@@ -71,3 +71,25 @@
 2025-04-22 14:20:42,190 - INFO - saving our data in processed folder
 2025-04-22 14:20:42,230 - INFO - Data saved successfully to artifacts/processed\processed_test.csv
 2025-04-22 14:20:42,238 - INFO - Datapreprocessing completed
+2025-04-22 16:55:50,308 - INFO - Starting MLflow exprimentations
+2025-04-22 16:55:50,360 - INFO - Starting our Model training pipeline
+2025-04-22 16:55:50,360 - INFO - Logging the training and testing dataset to MLFlow
+2025-04-22 16:55:51,141 - INFO - Loading data from artifacts/processed\processed_train.csv
+2025-04-22 16:55:51,141 - INFO - Loading Data
+2025-04-22 16:55:54,172 - INFO - Loading data from artifacts/processed\processed_test.csv
+2025-04-22 16:55:54,172 - INFO - Loading Data
+2025-04-22 16:55:54,696 - INFO - Data splitted for model training
+2025-04-22 16:55:54,697 - INFO - Initializing our model
+2025-04-22 16:55:54,698 - INFO - Starting our Hyperparameter tuning
+2025-04-22 16:55:54,698 - INFO - Starting our model training
+2025-04-22 16:56:30,273 - INFO - Hyperparameter tuning completed
+2025-04-22 16:56:30,273 - INFO - Best parameters are: {'boosting_type': 'gbdt', 'learning_rate': np.float64(0.1293700315892974), 'max_depth': 23, 'n_estimators': 314, 'num_leaves': 94}
+2025-04-22 16:56:30,273 - INFO - Evaluating our model
+2025-04-22 16:56:30,515 - INFO - Accuracy score: 0.8843169527392429
+2025-04-22 16:56:30,515 - INFO - Precision score: 0.865414710485133
+2025-04-22 16:56:30,515 - INFO - Recall score: 0.9101810486715259
+2025-04-22 16:56:30,516 - INFO - F1 score: 0.8872335548934219
+2025-04-22 16:56:30,516 - INFO - Saving the model
+2025-04-22 16:56:30,667 - INFO - Model saved to artifacts/models/lgbm_model.pkl
+2025-04-22 16:56:30,667 - INFO - Logging Model
+2025-04-22 16:56:31,141 - INFO - Model training successfully completed
